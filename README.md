@@ -5,7 +5,7 @@ améliorer mon employabilité en tant que Data Analyst.
 
 J’ai analysé une demande d'un client, la société d’aéronautique, Aéroworld.
 
-J’ai rendu 9 livrables pour présenter ma vision du métier de Data Analyst à Suzanne, la responsable commerciale
+Au final, j’ai déposé 9 livrables pour présenter ma vision du métier de Data Analyst à Suzanne, la responsable commerciale
 de Data ESN afin d'être sélectionné pour réaliser la mission chez son client :
 
 1) Une carte mentale pour structurer et organiser le portfolio

@@ -10,13 +10,13 @@ de Data ESN afin d'être sélectionné pour réaliser la mission chez son client
 
 1) Une carte mentale pour structurer et organiser le portfolio
 2) Un diagramme de Gantt pour mesurer l'avancement du projet portfolio
-3) Un cahier des charges fonctionnel du projet portfolio
-4) Une analyse des besoins métiers du client
-5) Un tableau de bord de mon profil professionnel
-6) Un tableau de bord de veille métier et technologique dans l'analyse des données
+3) Un cahier des charges fonctionnel du projet portfolio pour cadrer les besoins et les solutions
+4) Une analyse des besoins métiers du client pour bien les comprendre
+5) Un tableau de bord de mon profil professionnel qui répond aux exigences du client
+6) Un tableau de bord de veille métier et technologique dans l'analyse des données pour renforcer mon employabilité
 7) Une vidéo de formation sur Power BI à destination des équipes du client en utilisant l'outil Loom
 8) Une procédure rédigée de création de graphiques sur Power BI pour les équipes du client
-9) Un site web du portfolio au format Github
+9) Un site web du portfolio au format Github pour être séletionné pour la mission 
 
 **Compétences développées** : Gestion de projet, rédaction professionnelle, data analysis, carte mentale, vidéo Loom, 
 veille informationnelle. 

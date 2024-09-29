@@ -32,7 +32,7 @@ veille informationnelle.
 
 **Axes d'amélioration** :
 - RAS
-- 
+  
 **Soutenance**
 Remarques :
 - Soutenance fluide et efficace

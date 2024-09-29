@@ -22,3 +22,18 @@ de Data ESN afin d'être sélectionné pour réaliser la mission chez son client
 veille informationnelle. 
 
 **Soft skills** : autonomie, créativité, gestion du temps.
+
+**Commentaires de l'évaluateur**
+
+**Livrable**
+
+**Points forts** :
+- Livrables conformes et de qualité
+
+**Axes d'amélioration** :
+- RAS
+- 
+**Soutenance**
+Remarques :
+- Soutenance fluide et efficace
+- Bonnes réponses aux différentes questions
